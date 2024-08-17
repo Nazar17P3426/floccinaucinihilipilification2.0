@@ -1,2 +1,2 @@
-# floccinaucinihilipilification-2.0.exe-Malware
-an remastered floccinaucinihilipilification-2.0 Yeahhhhhhhhhhhhhhhhhhhhhhhhhhhh
+# floccinaucinihilipilification2.0
+C++ GDI trojan by WinMalware and Null_Y317K
